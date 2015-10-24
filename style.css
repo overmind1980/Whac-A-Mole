@@ -13,7 +13,7 @@ h1,div{
 .column{
     background-color: #d9bf9a;
     float:left;
-    background-image: url(images/ds.png);
+    background-image: url('http://dex.pm222.com/images/pokemon_huiro_cg/050.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     opacity:0;
@@ -32,7 +32,7 @@ h1,div{
     position:absolute;
     width:100px;
     height:100px;
-    background:url('images/boom.png');
+    background:url('http://www.websbook.com/sc/upimg/allimg/080413/957615_36820871.jpg');
     display: none;
 }
 
